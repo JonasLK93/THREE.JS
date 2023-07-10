@@ -1,0 +1,15 @@
+Node skal være installeret for at køre.
+Jeg har brugt THREE.JS biblioteket og min applikation bliver kørt på en lokal server i Vite.js. 
+
+når du kører "npm install" i projekt mappen, så burde den hente alle nødvendige værktøjer fra dependencies i package.json 
+
+1. "npm install" i terminalen
+
+2. derefter "npx vite" i terminalen (stater min lokale server)
+
+3. Tryk på "O" (for Ole), for at åbne siden
+
+4. Når siden er åben, tryk en gang på musen for at kigge rundt på siden. (Jeg har brugt PoinberLockControls)
+
+
+Jeg har kæmpet en del med lyset. Det virker som om at når jeg rammer en negativ position i X, Y og Z-aksen så går det galt. Det har ikke lykkedes mig at rette fejlen. 
